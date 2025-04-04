@@ -16,7 +16,8 @@
 | Dataset | Protein | Positive sites | Negative sites |
 |----------|----------|----------|----------|
 | Initial dataset   | 318   | 1078   | 110923   |
-| Filtered dataset (CD-HIT, 40% threshold)   | 246   | 1078   | 1078   |
+| Filtered dataset 
+(CD-HIT, 40% threshold)   | 246   | 1078   | 1078   |
 | Training   | -  | 878  | 878  |
 | Balanced test  | -  | 200  | 200  |
 | Imbalanced test  | -  | 200  | 1000  |
