@@ -9,7 +9,7 @@
    - Pandas
    - Tensorflow
    - Sever: GPUT4
-   - Goolge colab
+   - Google Colab
 
 ## Dataset
     In this study, the datasets of  human O-linked Threonine Glycosylation (OTG) were collected from HOTGpred [15], DOGpred [17], O-GlyThr [14], UniProt database [23] and relative literatures. After some technical steps to remove redandunt data, we decided to utilize the same dataset as the most recent studies used on human OTG sites prediction, including HOTGpred [15], DOGpred [17], O-GlyThr [14]. This resulted in 318 human OTG proteins. In order to remove duplicate and redundant proteins, the CD-HIT tool [24] was applied with a 40% sequence identity threshold, which refined the dataset to 246 unique human proteins. (Detail dataset in this study in the Table 1).
